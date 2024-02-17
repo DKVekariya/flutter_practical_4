@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following things can an ‘advertisement’ do?",
+            "options": {
+                "a": "put things in a bag for you",
+                "b": "tell you how much something costs",
+                "c": "spend a lot of money",
+                "d": "all of the above"
+            }
+        },
+        {
+            "question": "Which of the following things do you do when you ‘purchase’ something?",
+            "options": {
+                "a": "you return it",
+                "b": "you advertise it",
+                "c": "you sell it",
+                "d": "you buy it"
+            }
+        },
+        {
+            "question": "If something you bought was a ‘bargain’, it wasn’t ….",
+            "options": {
+                "a": "expensive",
+                "b": "on sale",
+                "c": "big",
+                "d": "bought with cash"
+            }
+        },
+        {
+            "question": "Which of the following things does a ‘cashier’ usually do?",
+            "options": {
+                "a": "give away things for free",
+                "b": "browse",
+                "c": "go shopping",
+                "d": "take your money"
+            }
+        },
+        {
+            "question": "A book costs $5.99 and you pay $6. What should you get?",
+            "options": {
+                "a": "special offers",
+                "b": "change",
+                "c": "a clerk",
+                "d": "a cash register"
+            }
+        },
+        {
+            "question": "Which of the following things can you do with a ‘debit card’?",
+            "options": {
+                "a": "find a clerk to help you",
+                "b": "find out someone’s name",
+                "c": "buy a bag of apples",
+                "d": "find out the price of a sweater"
+            }
+        },
+        {
+            "question": "What do you do when you ‘exchange’ a product?",
+            "options": {
+                "a": "you replace it with another product",
+                "b": "you look at it very carefully",
+                "c": "you sell it to a customer",
+                "d": "you put it inside a box"
+            }
+        },
+        {
+            "question": "Which of the following things do people usually do in a ‘fitting room’?",
+            "options": {
+                "a": "they look at bar codes",
+                "b": "they talk to other customers",
+                "c": "they try on clothes",
+                "d": "they buy things"
+            }
+        }
+    ]
+}
